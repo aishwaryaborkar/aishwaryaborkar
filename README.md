@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hello, World! 🌎
+
+It's me, Ash. I'm a software engineer at Change.org. 
+
+Things I love:
+🌶 spicy / vegetarian food 
+💻 developer puns / memes 
+⚡ Harry Potter 
 
 <!--
 **aishwaryaborkar/aishwaryaborkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
