@@ -2,11 +2,6 @@
 
 It's me, Ash. I'm a software engineer at Tembo. 🐘 
 
-Things I love:
-- 🌶 spicy / vegetarian food 
-- 💻 developer puns / memes 
-- ⚡ Harry Potter 
-
 <!--
 **aishwaryaborkar/aishwaryaborkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
