@@ -1,6 +1,6 @@
 ### Hello, World! 🌎
 
-It's me, Ash. I'm a software engineer at Tembo. 🐘 
+It's me, Ash. I'm a software engineer.
 
 <!--
 **aishwaryaborkar/aishwaryaborkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
